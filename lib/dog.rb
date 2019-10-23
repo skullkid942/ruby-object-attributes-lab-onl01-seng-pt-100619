@@ -10,6 +10,6 @@ class Dog
   end 
   
   #def breed 
-    self.breed 
-  end 
+  #  self.breed 
+  #end 
 end 
