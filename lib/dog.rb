@@ -9,7 +9,7 @@ class Dog
     self.dog_name
   end 
   
-  def breed 
+  #def breed 
     self.breed 
   end 
 end 
