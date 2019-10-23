@@ -6,7 +6,7 @@ class Dog
   end 
   
   def name
-    dog_name
+    self.dog_name
   end 
   
   #def breed 
